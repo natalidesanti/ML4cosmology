@@ -6,13 +6,14 @@ It is the material for my first guest lecturer, to the course Cosmological Simul
 
 ## Material
 
-The lecture will cover two problems based on [IllustrisTNG](https://www.tng-project.org) data:
+The lecture will cover two problems based on [IllustrisTNG](https://www.tng-project.org) hydrodynamical simulation from the [CAMELS](https://camels.readthedocs.io/en/latest/) project:
 * **Blue and Red galaxies**
   * Use of galaxy stellar mass, star formation rate, and radius to predict galaxy color (blue or red)
   * Classification problem solved on the basis of Random Forest
 * **The halo-galaxy connection**
   * Use of halo mass, radius, and velocities to predict galaxy stellar mass
   * Regression problem solved on the basis of Neural Networks
+You can download the data used in this lecture by this [link](https://www.dropbox.com/scl/fi/nkbxz27del5iias8fgatl/fof_subhalo_tab_033.hdf5?rlkey=sigrg4t7tpjmq86x8ub8lsjls&st=z5x76tlk&dl=0).
 
 ## Requisites
 
