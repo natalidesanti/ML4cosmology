@@ -31,6 +31,7 @@ You can download the data used in this lecture by this [link](https://www.dropbo
 You have two main notebooks in this repository:
 * `haloXgal.ipynb`
 * `redXblue.ipynb`
+
 and you can run them as usual `jupyter notebooks`.
 
 ## Q&A
